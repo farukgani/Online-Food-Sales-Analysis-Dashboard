@@ -28,7 +28,7 @@ The dashboard provides a clear view of sales performance and helps identify top-
 
 The Home Page provides an overall view of online food sales performance, including orders over time, order status, payment methods, top restaurants by revenue, restaurant-wise orders, city-wise orders, and popular dishes.
 
-![Home Page Dashboard](Dashboard/Home_Page.png)
+![Home Page Dashboard](Images/Home.png)
 
 ---
 
