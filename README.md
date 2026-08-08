@@ -36,7 +36,7 @@ The Home Page provides an overall view of online food sales performance, includi
 
 The second dashboard page provides detailed insights into restaurant performance and dish-level analysis, including restaurant orders, revenue, ratings, most ordered dishes, and top-rated dishes.
 
-![Restaurant & Dish Analysis Dashboard](Image/next_page.png)
+![Restaurant & Dish Analysis Dashboard](Images/next_page.png)
 
 ---
 
